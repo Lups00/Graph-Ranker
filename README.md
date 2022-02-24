@@ -1,4 +1,6 @@
 # Graph-Ranker
+That's my first project :)
+
 Management of Many Weighted Graphs
 
 INPUT: 
